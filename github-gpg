@@ -3,8 +3,8 @@
 # Licence: GPL-2
 LC_ALL=C
 
-if [[ -z $2 ]]; then
-	echo -e "ERROR: Faltan parametros."
+if [[ -z $1 ]]; then
+	echo "USO: github.gpg ID"
 fi
 
 git config --global commit.gpgsign true
