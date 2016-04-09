@@ -1,4 +1,16 @@
-commit 4b705191b345980999d41fd1d4d1892b8e7f0a08 (HEAD, origin/master, origin/HEAD, master)
+commit 2e5206b0f90d6dd614286811139fb2d6418a2db5 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Apr 9 00:54:13 2016 -0430
+
+    * casi
+
+commit cf3f33951f77c7540d11ec39e8d640cf76c6e9c4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Apr 9 00:51:35 2016 -0430
+
+    * changelog
+
+commit 4b705191b345980999d41fd1d4d1892b8e7f0a08
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Apr 9 00:50:55 2016 -0430
 
