@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Made by Jesus Palencia
+# Licence: GPL-2
+LC_ALL=C
+
+if [[ -z $2 ]]; then
+	echo -e "ERROR: Faltan parametros."
+fi
+
+git config --global commit.gpgsign true
+git config --global user.signingkey $1
+
+echo "Finalizado."
+
+exit 0
